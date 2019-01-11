@@ -1,0 +1,9 @@
+{
+  "name": "HoliKitchen",
+  "short_name": "HK",
+  "description": "Somos un restaurante holístico de comida saludable enfocada a apoyarte en la transición a una vida saludable.",
+  "lang": "es-PE",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "FFFFFF"
+}
